@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  
   <channel>
     <title>Buenos Borradores by MIN Books</title>
     <googleplay:author>Rody Davis, Norbert Kozsir</googleplay:author>
     <itunes:author>Rody Davis, Norbert Kozsir</itunes:author>
+    <language>es</language>
     <link>www.mywebsite.com</link>
+    <copyright>Copyright 2025 MIN Audio</copyright>
     <description>Aqui leemos borradores prometedores de textos</description>
     <item>
-      <title>1 - U.R.A.H: </title>
+      <title>1U.R.A.H: </title>
       <description>Show notes for the first episode.</description>
       <pubDate>Thu, 23 Dec 2025 11:30:00 -0300</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
       <enclosure url="https://github.com/MINmediacl/Podcast/raw/refs/heads/main/El_lobo_polic%C3%ADa_y_su_manada_imposible.m4a" length="791" type="audio/mpeg" />
       <link>www.mywebsite.com/episode1</link>
     </item>
