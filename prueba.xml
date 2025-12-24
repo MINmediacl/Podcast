@@ -12,7 +12,10 @@
     <copyright>Copyright 2025 MIN Audio</copyright>
     <description>Aqui leemos borradores prometedores de textos</description>
     <item>
-      <title>1U.R.A.H: </title>
+  
+    <itunes:image href=""/>
+      
+      <title>U.R.A.H: </title>
       <description>Show notes for the first episode.</description>
       <pubDate>Thu, 23 Dec 2025 11:30:00 -0300</pubDate>
       <itunes:episodeType>full</itunes:episodeType>
