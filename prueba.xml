@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>My Awesome Podcast</title>
+    <title>Buenos Borradores by MIN Books</title>
+    <googleplay:author>Rody Davis, Norbert Kozsir</googleplay:author>
+    <itunes:author>Rody Davis, Norbert Kozsir</itunes:author>
     <link>www.mywebsite.com</link>
-    <description>A description of my podcast.</description>
+    <description>Aqui leemos borradores prometedores de textos</description>
     <item>
-      <title>Episode One Title</title>
+      <title>1 - U.R.A.H: </title>
       <description>Show notes for the first episode.</description>
-      <pubDate>Sat, 25 Mar 2006 11:30:00 -0500</pubDate>
-      <enclosure url="media.mywebsite.com" length="12345678" type="audio/mpeg" />
+      <pubDate>Thu, 23 Dec 2025 11:30:00 -0300</pubDate>
+      <enclosure url="https://github.com/MINmediacl/Podcast/raw/refs/heads/main/El_lobo_polic%C3%ADa_y_su_manada_imposible.m4a" length="791" type="audio/mpeg" />
       <link>www.mywebsite.com/episode1</link>
     </item>
   </channel>
